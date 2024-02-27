@@ -1,17 +1,17 @@
 ### Sumário
 
-1. 🪪 <a href="#🪪-wallet">**Wallet**</a>
+1. 🪪 Wallet
     1. Funções de Hash
     2. Chaves Públicas
     3. UTXO
     4. Account-Based
-2. 🔁 <a href="#🔁-transações-tx">**Transações**</a> 
+2. 🔁 Transações
     1. Ciclo de vide de uma Tx
     2. Taxas
-3. <a href="#🧱-blocos">🧱 **Blocos**</a> 
+3. 🧱 Blocos
     1. Criando uma Blockchain
     2. O que é Merkle Tree
-4. <a href="#🤝-consenso">🤝 **Consenso**</a>
+4. 🤝 Consenso
     1. Proof-of-Work
     2. Proof-of-Stake
     3. Proof-of-Authority
