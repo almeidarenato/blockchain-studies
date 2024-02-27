@@ -19,9 +19,11 @@
 ## 🪪 Wallet 
 
 ### Funções Hash / Hash Functions
+Usada para gerar impressões digitais únicas dos dados. Essa impressão digital são usadas para verificar a integridade dos dados na blockchain 
 
 Função Deterministica  - significa que sempre que você passar a mesma entrada por uma função hash específica você obtera o mesmo valor como saída, independente de quantas vezes você executar a função.
 
+A respeito das funções hash: 
 - Rapidas de calcular
 - Impraticáveis de inverter ( se um hash for colocad
 - Resistentes a colisões ( o resultado nao pode ser o mesmo pra dois itens)
@@ -30,8 +32,7 @@ Função Deterministica  - significa que sempre que você passar a mesma entrada
 - Pseudorrandomização
 
 ### **Chaves Públicas**
-
-Método da criptografia que usa um par de chaves para segurança de dados. 
+Usada para verificar transações na blockchain
 
 O método consiste em uma chave pública e uma chave privada que são matematicamente relacionadas entre elas.
 
