@@ -74,13 +74,13 @@ Uma transação simples tem
 
 “from” , “to” e “value”
 
-"from” : eu
+"from” : remetente da transação
 
-“to”: pra quem estou enviando
+“to”: pra quem estou enviando (destinatário)
 
 “value”: valor que estou enviando
 
-“nonce”:  “número de transferencia da transação” usado para evitar transacao duplicado. Também serve para prioridade para transação.
+“nonce”:  “número de transferencia da transação” usado para evitar transação duplicada. Também serve para definir a prioridade para transação.
 
 “chainId” : indica qual cadeia está sendo usada. (ethereum, polygon, ethereum test net)
 
