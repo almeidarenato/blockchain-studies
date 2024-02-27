@@ -151,9 +151,9 @@ Hash do bloco o nonce do bloco até gerar o hash do bloco . Ao gerar o bloco o m
 
 ### Proof-of-Stake
 
-algoritmo que precisa do dinheiro. Quem tiver mais “dinheiro” a rede escolhe o validador.
+“Precisa do dinheiro” ao invés do poder computacional. Escolhe quem tem a moeda da rede para validar e por isso é mais democrático
 
 ### Proof-of-Authority
 
-É centralizado. 
-inseguro pois o validador  é escolhido a dedo.
+Rede centralizada geralmente construida por empresas (blockchains privadas).
+O validador é escolhido a dedo e por isso é mais eficiente em questão de energia gasta (se comparar com PoW e PoS) 
